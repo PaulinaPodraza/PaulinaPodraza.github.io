@@ -1,0 +1,42 @@
+.menu {
+  text-align: right;
+  list-style: none;
+}
+.tytul {
+  text-align: center;
+}
+.podpisfoto,
+.podpisfoto2 {
+  color: rgb(126, 124, 124);
+}
+.podpisfoto2 {
+  margin-top: 570px;
+  text-align: right;
+}
+.foto {
+  width: 50vw;
+  height: auto;
+  float: right;
+}
+
+.foto1 {
+  height: auto;
+  width: 40vw;
+}
+.salatkaopis {
+margin-left: 720px;
+margin-top: -650px;
+}
+.makaronopis{
+  margin-top: -500px;
+}
+.szakszukaopis{
+  margin-top: -650px;
+  margin-left: 720px;
+}
+#OBIAD {
+margin-top: 400px;
+}
+#KOLACJA {
+  margin-top: 200px;
+}
